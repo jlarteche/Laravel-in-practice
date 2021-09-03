@@ -1,5 +1,5 @@
 @extends('layouts.plantilla')
-@section('title', 'esto es el homerrr')
+@section('title', 'esto es el home')
 @section('content')
 <h1>ahora estamos diciendo hola que ase desde la vista home BLADE llamada por homecontroller</h1>
 <br>
